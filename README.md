@@ -157,8 +157,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👨‍💻 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/mudassar-inam-0b0a15279)
-- GitHub: [@yourusername](https://github.com/Mudassar-inam)
+- LinkedIn: (www.linkedin.com/in/mudassar-inam-0b0a15279)
+- GitHub: (https://github.com/Mudassar-inam)
 
 ## ⭐ Show your support
 
@@ -167,6 +167,7 @@ Give a ⭐️ if you like this project!
 ---
 
 **Note**: This is an educational project. Please use API keys responsibly and respect rate limits.
+
 
 
 
