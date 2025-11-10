@@ -37,29 +37,6 @@ A personal AI voice assistant built using **Python**, capable of:
 
 ---
 
-## 📁 Project Structure
-
-📦 JARVIS
-│
-├── jarvis.py # Main program logic
-├── musicLibrary.py # Dictionary of songs + URLs
-├── newsLibrary.py # Fetches news via RSS feeds
-└── .env # Stores GEMINI_API_KEY (not uploaded)
-
-# 🎙️ JARVIS - AI Voice Assistant
-
-A powerful voice-activated assistant built with Python that can control applications, play music, fetch news, and answer questions using Google's Gemini AI.
-
-## ✨ Features
-
-- 🎤 **Voice-Activated**: Wake word detection using "Jarvis"
-- 🌐 **Web Automation**: Opens popular websites (Google, Facebook, Instagram, YouTube, LinkedIn, Snapchat)
-- 💻 **App Control**: Launches desktop applications like WhatsApp
-- 🎵 **Music Player**: Play songs from your custom music library
-- 📰 **News Updates**: Fetches latest news from Pakistani sources (Dawn, Express Tribune, Geo News)
-- 🤖 **AI-Powered**: Answers questions using Google Gemini AI
-- 🗣️ **Text-to-Speech**: Natural voice responses
-
 ## 🛠️ Technologies Used
 
 - **Python 3.x**
@@ -146,17 +123,6 @@ jarvis-voice-assistant/
 └── README.md           # Project documentation
 ```
 
-## 🔒 Security Note
-
-**Never commit your `.env` file or API keys to GitHub!** 
-
-Add to `.gitignore`:
-```
-.env
-__pycache__/
-*.pyc
-```
-
 ## 🐛 Troubleshooting
 
 **Microphone not detected**:
@@ -201,3 +167,4 @@ Give a ⭐️ if you like this project!
 ---
 
 **Note**: This is an educational project. Please use API keys responsibly and respect rate limits.
+
