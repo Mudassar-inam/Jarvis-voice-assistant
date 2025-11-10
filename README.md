@@ -87,7 +87,7 @@ music = {
 
 Run the assistant:
 ```bash
-python JARVIS1.py
+python jarvis.py
 ```
 
 **Wake Word**: Say **"Jarvis"** to activate
@@ -115,7 +115,7 @@ python JARVIS1.py
 ```
 jarvis-voice-assistant/
 │
-├── JARVIS1.py          # Main application file
+├── jarvis.py          # Main application file
 ├── musicLibrary.py     # Music links dictionary
 ├── newsLibrary.py      # News fetching module
 ├── .env                # API keys (not tracked in git)
@@ -167,4 +167,5 @@ Give a ⭐️ if you like this project!
 ---
 
 **Note**: This is an educational project. Please use API keys responsibly and respect rate limits.
+
 
